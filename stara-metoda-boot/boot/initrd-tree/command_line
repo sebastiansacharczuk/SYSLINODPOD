@@ -1,0 +1,1 @@
+/sbin/mkinitrd -c -k 6.14.9 -f ext4 -r /dev/sda4 -m ext4 -u -o /boot/initrd-custom-6.14.9.gz
